@@ -40,7 +40,7 @@ A decentralized platform for staking and mining EFIK tokens on Binance Smart Cha
 - Uses OpenZeppelin libraries for secure standards.
 
 ## Need Help? 💬
-- Join our [Telegram Group](https://t.me/efikcoin).
+- Join our [Telegram Group](https://t.me/efikcoinstaking).
 - Email: support@efikcoin.com
 
 ## License
