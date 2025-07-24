@@ -1,0 +1,9 @@
+Efikcoin-core/
+├── frontend/
+│   ├── index.html             ← Homepage with welcome message + buttons
+│   ├── vault.html             ← Dashboard with wallet/stake/referral
+│   ├── var-admin/
+│   │   └── login.html         ← Admin login interface
+│   ├── styles.css             ← All your design / mobile layout
+│   └── app.js                 ← Wallet logic, referral, stake/claim
+└── vercel.json                ← Routing config (below 👇)
