@@ -29,9 +29,9 @@ A decentralized platform for staking and mining EFIK tokens on Binance Smart Cha
 3. **Claim Rewards**: Harvest EFIK rewards weekly.
 
 ## Smart Contracts 📜
-- **Staking Contract**: `0x123...abc` (BSC Mainnet)
+- **Staking Contract**: `0x021833b1418ab79a746d3994e13ee8c60ce16412` (BSC Mainnet)
 - **Mining Contract**: `0x456...def` (BSC Mainnet)
-- **Token Address**: `0x789...ghi` (EFIK BEP-20)
+- **Token Address**: `0x021833b1418ab79a746d3994e13ee8c60ce16412` (EFIK BEP-20)
 
 *Replace with actual addresses after deployment.*
 
@@ -40,8 +40,8 @@ A decentralized platform for staking and mining EFIK tokens on Binance Smart Cha
 - Uses OpenZeppelin libraries for secure standards.
 
 ## Need Help? 💬
-- Join our [Telegram Group](https://t.me/efikcoinstaking).
-- Email: support@efikcoin.com
+- Join our [Telegram Group](https://t.me/efikcoinofficial).
+- Email: support@efikcoinofficialecosystem.com
 
 ## License
 MIT License
