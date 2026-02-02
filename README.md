@@ -18,7 +18,7 @@ A decentralized platform for staking and mining EFIK tokens on Binance Smart Cha
 - EFIK tokens (for staking/mining).
 
 ### How to Stake
-1. **Connect Wallet**: Visit [Efikcoinstaking.com](https://efikcoinstaking.com) and click "Connect Wallet".
+1. **Connect Wallet**: Visit [Efikcoinstaking.com](https://Efikcoinofficialecosystem/token/0x021833B1418aB79A746D3994E13ee8c60ce16412) and click "Connect Wallet".
 2. **Choose a Pool**: Select a staking pool (e.g., "Efik Pool").
 3. **Stake Tokens**: Enter the amount of EFIK to stake and confirm the transaction.
 4. **Earn Rewards**: Check your rewards in the dashboard daily.
@@ -40,8 +40,8 @@ A decentralized platform for staking and mining EFIK tokens on Binance Smart Cha
 - Uses OpenZeppelin libraries for secure standards.
 
 ## Need Help? 💬
-- Join our [Telegram Group](https://t.me/efikcoinofficial).
-- Email: support@efikcoinofficialecosystem.com
+- Join our [Telegram Group](https://t.me/efikcoinofficialecosystem).
+- Email: Efikcoinofficialecosystem@gmail.com
 
 ## License
 MIT License
